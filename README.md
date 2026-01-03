@@ -5,7 +5,7 @@
 
 ## Overview
 
-**Auto Skill Navigator** is an AI-driven framework designed to enable personalized learning and adaptive skill development. The system focuses on identifying individual skill gaps and recommending optimized learning pathways using data analytics and machine learning techniques.
+**Auto Skill Navigator** is an AI-driven designed to enable personalized learning and adaptive skill development. The system focuses on identifying individual skill gaps and recommending optimized learning pathways using data analytics and machine learning techniques.
 
 The work addresses the limitations of traditional one-size-fits-all education models and proposes a scalable solution for education technology (EdTech) platforms and professional upskilling systems.
 
